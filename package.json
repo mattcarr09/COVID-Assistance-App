@@ -2,6 +2,9 @@
   "name": "gatsby-starter-leaflet",
   "description": "A Gatsby starter with Leafet!",
   "version": "0.2.2",
+  "engines": {
+    "node": "12.11.x"
+  },
   "author": "Colby Fayock <hello@colbyfayock.com>",
   "dependencies": {
     "axios": "^0.19.2",
