@@ -6,8 +6,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `images`,
-        path: `${__dirname}/src/assets/images`
+        name: `pages`,
+        path: `${__dirname}/src/pages/`,
       }
     },
     'gatsby-plugin-react-leaflet'
