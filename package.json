@@ -47,6 +47,7 @@
     "maps"
   ],
   "license": "MIT",
+  "main": "./src/pages/index.js",
   "scripts": {
     "build": "gatsby build",
     "clean": "gatsby clean",
